@@ -1,22 +1,21 @@
-# Comunidad
+# Cursos
 
-Proyectos subidos por la comunidad de alumnos de la carrera.
+Silabos y documentos importantes de los cursos, subidos por la comunidad de alumnos de la carrera.
 
 ## Instrucciones
 
-Dentro de cada carpeta se muestran los pasos a seguir de manera individual para cada proyecto desarrollado. Estos proyectos estan orientados a aquellos estudiantes que quieran aprender y crecer más junto a la carrera.
+Dentro de cada carpeta se muestran los documentos y algunos archivos de información complementaria para cada curso desarrollado. Esta información está orientada a aquellos estudiantes que quieran aprender y crecer más junto a la carrera.
 
 
-## Ejecutando los archivos
+## Consejos
 
-La mayoría de proyectos contiene firmware basado en lenguaje de programación C/C++ o placas electrónicas implementados en Eagle. Los archivos fuentes podrán descargarse y ejecutarse con estos programas.
-
+Hemos desarrollado proyectos de ayuda y tutoriales para aquellos que esten interesados en expandir su conocimiento. Pueden ingresar haciendo click [aquí](https://github.com/electronica-utec/comunidad).
 
 ## Autores
 
 * **Jhonatan Macazana** - *Trabajo inicial* - [jhonatanmacazana](https://github.com/jhonatanmacazana)
 
-También puedes ver la lista de los [contribuidores](https://github.com/your/project/contributors) que participaron en este proyecto.
+También puedes ver la lista de los [contribuidores](https://github.com/electronica-utec/cursos/contributors) que participaron en este proyecto.
 
 ## Licencia
 
