@@ -7,7 +7,7 @@ Silabos y documentos importantes de los cursos, subidos por la comunidad de alum
 Dentro de cada carpeta se muestran los documentos y algunos archivos de información complementaria para cada curso desarrollado. Esta información está orientada a aquellos estudiantes que quieran aprender y crecer más junto a la carrera.
 
 
-## Consejos
+## Comunidad de Alumnos - Guías
 
 Hemos desarrollado proyectos de ayuda y tutoriales para aquellos que esten interesados en expandir su conocimiento. Pueden ingresar haciendo click [aquí](https://github.com/electronica-utec/comunidad).
 
